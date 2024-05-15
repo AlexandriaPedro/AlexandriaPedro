@@ -14,12 +14,9 @@
 ### 📖 And these are also some technologies that I study:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alexandria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alexandria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alexandria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alexandria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alexandria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alexandria-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
+  <img align="center" alt="Alexandria-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  
   <img align="right" alt="Alexandria-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/929741193481453598/1074851159564628038/download20230201205319.png?width=676&height=676">
 </div>
